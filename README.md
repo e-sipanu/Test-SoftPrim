@@ -91,11 +91,12 @@ curl -X GET "http://localhost:3000/api/products?category_id=1"
 
 *(Aici vor apărea imaginile cu aplicația finalizată)*
 
-**Interfață Desktop (Produse și Filtru)**  
-![Interfață Desktop](https://via.placeholder.com/800x450.png?text=Interfata+Desktop+Aici)
+**Interfață Desktop (Produse și Filtru)**
+![Interfață Desktop](ex1.PNG)
 
-**Interfață Mobilă (Responsive)**  
-![Interfață Mobilă](https://via.placeholder.com/400x600.png?text=Interfata+Mobila+Aici)
+
+**Interfață Mobilă (Responsive)**
+![Interfață Mobilă](ex2.PNG)
 
 ---
 
